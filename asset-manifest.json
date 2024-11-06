@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/moviequeryapp/static/css/main.73a8708f.css",
-    "main.js": "/moviequeryapp/static/js/main.370a6b1f.js",
-    "index.html": "/moviequeryapp/index.html",
-    "main.73a8708f.css.map": "/moviequeryapp/static/css/main.73a8708f.css.map",
-    "main.370a6b1f.js.map": "/moviequeryapp/static/js/main.370a6b1f.js.map"
+    "main.css": "/ramesh-46/moviequeryapp.git/static/css/main.73a8708f.css",
+    "main.js": "/ramesh-46/moviequeryapp.git/static/js/main.370a6b1f.js",
+    "index.html": "/ramesh-46/moviequeryapp.git/index.html",
+    "main.73a8708f.css.map": "/ramesh-46/moviequeryapp.git/static/css/main.73a8708f.css.map",
+    "main.370a6b1f.js.map": "/ramesh-46/moviequeryapp.git/static/js/main.370a6b1f.js.map"
   },
   "entrypoints": [
     "static/css/main.73a8708f.css",
